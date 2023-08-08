@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32602.291
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentLibrary", "StudentLibrary.csproj", "{8FFC3044-2F43-4D7D-8FC8-AE8763276E09}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{651695AE-5510-4865-A3ED-D62B1D9BC083}"
 	ProjectSection(SolutionItems) = preProject
 		..\..\..\Desktop\StudentDataSQL.sql = ..\..\..\Desktop\StudentDataSQL.sql
@@ -20,10 +18,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8FFC3044-2F43-4D7D-8FC8-AE8763276E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8FFC3044-2F43-4D7D-8FC8-AE8763276E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8FFC3044-2F43-4D7D-8FC8-AE8763276E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8FFC3044-2F43-4D7D-8FC8-AE8763276E09}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FB0A3676-1889-48BF-BC1F-7A947B298DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FB0A3676-1889-48BF-BC1F-7A947B298DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB0A3676-1889-48BF-BC1F-7A947B298DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
